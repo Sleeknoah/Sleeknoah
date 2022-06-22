@@ -2,4 +2,4 @@
 - 👀 I’m interested in Music and learning
 - 🌱 I’m currently learning React and React Native
 - 💞️ I’m looking to collaborate with fellow engineers
-- 📫 How to reach me chimdikennacheta@gmail.com
+- 📫 How to reach me nnacheta.chimdike@gmail.com
